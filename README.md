@@ -12,3 +12,4 @@ Contents:
 <br>post4.py - Datagrid with PyQt6 https://bit.ly/3qMZhW3
 <br>post5.py - Progressbar with PyQt6 https://bit.ly/3JVTogU
 <br>post6.py - Matplotlib with PyQt6 https://bit.ly/3IKJCwB
+<br>post7.py - Tabbed Container with PyQt6 https://bit.ly/3DkDHNX
