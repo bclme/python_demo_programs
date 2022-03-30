@@ -11,3 +11,4 @@ Contents:
 <br>post3.py - Draw Rectangle and Ellipse with PyQt6 https://bit.ly/3LnquGP
 <br>post4.py - Datagrid with PyQt6 https://bit.ly/3qMZhW3
 <br>post5.py - Progressbar with PyQt6 https://bit.ly/3JVTogU
+<br>post6.py - Matplotlib with PyQt6 https://bit.ly/3IKJCwB
