@@ -13,4 +13,5 @@ Contents:
 <br>post5.py - Progressbar with PyQt6 https://bit.ly/3JVTogU
 <br>post6.py - Matplotlib with PyQt6 https://bit.ly/3IKJCwB
 <br>post7.py - Tabbed Container with PyQt6 https://bit.ly/3DkDHNX
-<br>post8.py - Plotting Realtime Data using Matplotlib in PyQt6 - https://bit.ly/3iRGWCU
+<br>post8.py - Plotting Realtime Data using Matplotlib in PyQt6 https://bit.ly/3iRGWCU
+<br>post9.py - Textbox(QLineEdit) with PyQt6 https://bit.ly/3LCrR4p
