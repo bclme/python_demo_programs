@@ -15,3 +15,4 @@ Contents:
 <br>post7.py - Tabbed Container with PyQt6 https://bit.ly/3DkDHNX
 <br>post8.py - Plotting Realtime Data using Matplotlib in PyQt6 https://bit.ly/3iRGWCU
 <br>post9.py - Textbox(QLineEdit) with PyQt6 https://bit.ly/3LCrR4p
+<br>post10.py - Making Datagrid Read Only with PyQt6 https://bit.ly/35Nl1Kl
